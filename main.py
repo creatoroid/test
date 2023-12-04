@@ -1,1 +1,1 @@
-print("Hellow world. After updates.")
+print("Hellow world. After updates!")
